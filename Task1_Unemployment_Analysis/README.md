@@ -6,7 +6,6 @@ This project analyzes unemployment trends in India using Python. The dataset was
 
 The project focuses on identifying trends, comparing unemployment rates across regions, and understanding the impact of major events such as the COVID-19 pandemic.
 
----
 
 ## 🎯 Objectives
 
@@ -17,7 +16,6 @@ The project focuses on identifying trends, comparing unemployment rates across r
 - Compare Urban and Rural unemployment
 - Visualize important insights
 
----
 
 ## 🛠 Technologies Used
 
@@ -27,7 +25,6 @@ The project focuses on identifying trends, comparing unemployment rates across r
 - Matplotlib
 - Jupyter Notebook
 
----
 
 ## 📂 Project Structure
 
@@ -48,7 +45,6 @@ Unemployment-Analysis-Python/
 └── .gitignore
 ```
 
----
 
 ## 📈 Key Insights
 
@@ -60,7 +56,6 @@ Unemployment-Analysis-Python/
 - Urban unemployment was higher than Rural unemployment.
 - Most unemployment rates were concentrated at lower values with a few extreme values.
 
----
 
 ## 📊 Visualizations
 
@@ -80,16 +75,9 @@ Unemployment-Analysis-Python/
 
 ![Distribution](images/distribution.png)
 
----
 
 ## 🚀 Future Improvements
 
 - Build an interactive dashboard using Streamlit or Power BI.
 - Add state-wise forecasting using Machine Learning.
 - Include more recent unemployment datasets.
-
----
-
-## 👨‍💻 Author
-
-**Siri Moturi**
