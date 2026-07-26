@@ -1,9 +1,38 @@
-# Iris Flower Classification
+# 🌸 Iris Flower Classification using Machine Learning
 
-## Project Overview
-This project uses the Iris flower dataset to classify flowers into three species: Iris-setosa, Iris-versicolor, and Iris-virginica using Machine Learning.
+## 📌 Project Overview
 
-## Technologies Used
+This project classifies Iris flowers into three species:
+
+- Iris-setosa
+- Iris-versicolor
+- Iris-virginica
+
+using the K-Nearest Neighbors (KNN) classification algorithm.
+
+---
+
+## 📂 Dataset
+
+- 150 flower samples
+- 4 numerical features
+- 3 flower species
+
+Features:
+
+- Sepal Length
+- Sepal Width
+- Petal Length
+- Petal Width
+
+Target:
+
+- Species
+
+---
+
+## 🛠 Technologies Used
+
 - Python
 - Pandas
 - NumPy
@@ -12,16 +41,62 @@ This project uses the Iris flower dataset to classify flowers into three species
 - Scikit-learn
 - Jupyter Notebook
 
-## Project Workflow
-- Load the dataset
-- Perform Exploratory Data Analysis (EDA)
-- Visualize the data
-- Prepare features and target
-- Split data into training and testing sets
-- Train a K-Nearest Neighbors (KNN) classifier
-- Predict flower species
-- Evaluate model performance
+---
 
-## Results
-- High classification accuracy on the test dataset.
-- Successfully classified all three Iris flower species.
+## 📊 Project Workflow
+
+1. Load Dataset
+2. Exploratory Data Analysis (EDA)
+3. Data Visualization
+4. Feature & Target Selection
+5. Train-Test Split
+6. KNN Model Training
+7. Prediction
+8. Model Evaluation
+9. Conclusion
+
+---
+
+## 📈 Visualizations
+
+### Histogram
+
+![Histogram](images/histogram.png)
+
+### Boxplot
+
+![Boxplot](images/boxplot.png)
+
+### Pairplot
+
+![Pairplot](images/pairplot.png)
+
+### Correlation Heatmap
+
+![Heatmap](images/heatmap.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+---
+
+## 🎯 Model Performance
+
+- High Accuracy on Test Data
+- Confusion Matrix
+- Classification Report
+
+---
+
+## 📚 Learning Outcomes
+
+This project helped me understand:
+
+- Exploratory Data Analysis
+- Feature Selection
+- Classification
+- K-Nearest Neighbors
+- Model Evaluation
+- Accuracy
+- Confusion Matrix
